@@ -1,4 +1,10 @@
 /*
+ * Copyright (c) 2026 Chandrasen. All rights reserved.
+ * This source code is proprietary and confidential.
+ * Unauthorized copying, modification, distribution, or use is prohibited.
+ */
+
+/*
  * Copyright 2012 Priit Kallas <kallaspriit@gmail.com>
  *
  * Permission is hereby granted, free of charge, to any person obtaining

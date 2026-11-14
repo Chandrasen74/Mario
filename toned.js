@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026 Chandrasen. All rights reserved.
+ * This source code is proprietary and confidential.
+ * Unauthorized copying, modification, distribution, or use is prohibited.
+ */
+
 /* toned.js */
 // A mini-library I use for some short, useful functions
 // Pass in true to give all the functions to window

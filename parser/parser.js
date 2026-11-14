@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026 Chandrasen. All rights reserved.
+ * This source code is proprietary and confidential.
+ * Unauthorized copying, modification, distribution, or use is prohibited.
+ */
+
 // http://www.html5rocks.com/en/tutorials/file/dndfiles/
 
 var num_files, dropzone, curlist, outlist, numdisplay, files, scale_x = 1, scale_y = 1, digitsize = 1,

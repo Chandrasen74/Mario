@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026 Chandrasen. All rights reserved.
+ * This source code is proprietary and confidential.
+ * Unauthorized copying, modification, distribution, or use is prohibited.
+ */
+
 map.locs = [
   new Location(0, true),            // 0: main entrance
   new Location(0, exitPipeVert),    // 1: exit first underworld

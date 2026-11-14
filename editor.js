@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026 Chandrasen. All rights reserved.
+ * This source code is proprietary and confidential.
+ * Unauthorized copying, modification, distribution, or use is prohibited.
+ */
+
 /* Editor.js */
 // Contains all the functions needed to load and use the editor
 // Gives a UI for selecting Things and their options
