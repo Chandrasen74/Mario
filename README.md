@@ -1,3 +1,60 @@
+# Mario
+
+## Overview
+**Mario** is a JavaScript, HTML, CSS project with a browser-viewable demo (GitHub Pages).
+
+- Primary language: **JavaScript**
+- Detected stack: JavaScript, HTML, CSS
+- HTML title: Mario
+
+**Live/demo:** https://chandrasen74.github.io/Mario/
+
+## Repository contents
+- `Fonts/generator_config.txt`
+- `Fonts/pressstart2p-webfont.eot`
+- `Fonts/pressstart2p-webfont.svg`
+- `Fonts/pressstart2p-webfont.ttf`
+- `Fonts/pressstart2p-webfont.woff`
+- `Fonts/specimen_files/easytabs.js`
+- `Fonts/specimen_files/grid_12-825-55-15.css`
+- `Fonts/specimen_files/pressstart2p-cleartype.png`
+- `Fonts/specimen_files/specimen_stylesheet.css`
+- `Fonts/specimen_files/super_plumber_brothers-cleartype.png`
+- `Fonts/stylesheet.css`
+- `Fonts/super_plumber_brothers-demo.html`
+- `Fonts/super_plumber_brothers-webfont.eot`
+- `Fonts/super_plumber_brothers-webfont.svg`
+- `Fonts/super_plumber_brothers-webfont.ttf`
+- `Fonts/super_plumber_brothers-webfont.woff`
+- `Maps/World12.js`
+- `Maps/World13.js`
+- `Maps/World14.js`
+- `Maps/World21.js`
+- `Maps/World22.js`
+- `Maps/World23.js`
+- `Maps/World24.js`
+- `Maps/World31.js`
+- `Maps/World32.js`
+- `Maps/World33.js`
+- `Maps/World34.js`
+- `Maps/World41.js`
+- `Maps/World42.js`
+- `Maps/World43.js`
+- ... and 61 more
+
+## Getting started
+```bash
+git clone https://github.com/Chandrasen74/Mario.git
+cd Mario
+# open index.html in a browser, or serve locally:
+python -m http.server 8000
+```
+
+## Status
+README generated/updated as part of a profile-wide documentation pass based on repository contents.
+
+## Previous README (reference)
+
 An HTML5 remake of the original Super Mario Brothers - expanded for modern browsing.
 
 ------------------------------------------------------------------------------------
