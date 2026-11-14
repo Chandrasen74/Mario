@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026 Chandrasen. All rights reserved.
+ * This source code is proprietary and confidential.
+ * Unauthorized copying, modification, distribution, or use is prohibited.
+ */
+
 /* Triggers.js */
 // Keeps track of triggers, which mainly consist of key presses,
 // and messages, which would be from an index.html UI
